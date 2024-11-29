@@ -1,0 +1,12 @@
+/*DOCUMENTO CSS*/
+
+*{ margin: 0; 
+padding: 0%;}
+
+
+h1 { background-color: rgb(255, 75, 111);
+color: rgb(82, 53, 68);
+text-align: center;
+padding: 15px 0px; }
+
+.segundo {color: blueviolet;}

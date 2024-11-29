@@ -1,0 +1,11 @@
+/*Documento css */
+
+body { background-color: rgb(103, 168, 224); 
+    font-family: "Lato", sans-serif;}
+
+h1,h3 {color: slateblue;
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;}
+
+h2,h4 {color: brown;}
